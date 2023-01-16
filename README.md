@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 **- ⚡ Fun fact: ...
 -->
 <!-- <img width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovMLSvycq1FHNe-Rcd2zCzY28z2KwCGYz_Q&usqp=CAU" alt=""> -->
-<img align="right" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif" alt="">
+<img align="right" width="50%" height="40%" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif" alt="">
 
 # 💫 About Me:
 ### Hi, there I'm kaif siddiqui. 👋
