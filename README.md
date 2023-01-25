@@ -11,13 +11,15 @@ Here are some ideas to get you started:
 **- 📫 How to reach me: ...
 **- 😄 Pronouns: ...
 **- ⚡ Fun fact: ...
+**💫
+https://img.icons8.com/fluency-systems-regular/2x/employee-card.png
 -->
 <img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="">
 
-# 💫 About Me:
-<img align="right" width="55%" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif" alt="Web Developer">
-Hi, there I'm kaif siddiqui. 👋
-I'm a frontend web developer.<br><br>I create a responsively designed website and attractive user interfaces.<br>Using HTML, CSS, JAVASCRIPT, Bootstrap, Tailwind CSS.
+# <img src="https://img.icons8.com/color/2x/user-male-circle.png" alt="Web Developer" height="25" width="25"> About Me:
+
+👋Hi, there I'm kaif siddiqui.
+I'm a frontend web developer.<br><br>I create a responsively designed website and attractive user interfaces.<br>Using HTML, CSS, JAVASCRIPT, Bootstrap, Tailwind      CSS.
 
 
 <!-- ## 🌐 Socials:
@@ -37,7 +39,7 @@ I'm a frontend web developer.<br><br>I create a responsively designed website an
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p> <br>
+<p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/2x/git.png" alt="Git" width="40" height="40"/> </a> </p> <br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kaif-S2002&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
