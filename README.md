@@ -20,7 +20,7 @@ https://img.icons8.com/fluency-systems-regular/2x/employee-card.png
 
 👋Hi, there I'm kaif siddiqui.
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIQgEY-Gg2SNlXZFe3ozv_66Blf5RYaX8Ocw&usqp=CAU" alt="Web Developer" align="right" height="400px" width="400px">
-I'm a frontend web developer.<br><br>I create a responsively designed website and attractive user interfaces.<br>Using HTML, CSS, JAVASCRIPT, Bootstrap, Tailwind      CSS.
+I'm a frontend web developer.<br><br>I build a responsively designed website with attractive user interfaces.<br>Using HTML, CSS, JAVASCRIPT, and Bootstrap. <!--Tailwind      CSS.-->
 
 
 <!-- ## 🌐 Socials:
