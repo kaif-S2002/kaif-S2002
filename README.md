@@ -20,7 +20,7 @@ https://img.icons8.com/fluency-systems-regular/2x/employee-card.png
 
 👋Hi, there I'm kaif siddiqui.
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIQgEY-Gg2SNlXZFe3ozv_66Blf5RYaX8Ocw&usqp=CAU" alt="Web Developer" align="right" height="400px" width="400px">
-I'm a frontend web developer.<br><br>I build a responsively designed website with attractive user interfaces.<br>Using HTML, CSS, JAVASCRIPT, and Bootstrap. <!--Tailwind      CSS.-->
+I'm a front-end web developer.<br><br>I build a responsively designed website with attractive user interfaces.<br>Using HTML, CSS, JAVASCRIPT, and Bootstrap. <!--Tailwind      CSS.-->
 
 
 <!-- ## 🌐 Socials:
@@ -36,7 +36,7 @@ I'm a frontend web developer.<br><br>I build a responsively designed website wit
 <a href="https://twitter.com/@kaifsiddiqui__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kaifsiddiqui__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kaifsiddiqui02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaifsiddiqui02" height="30" width="40" /></a>
 <!-- <a href="https://fb.com/kaifsiddiqui2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaifsiddiqui2002" height="30" width="40" /></a> -->
-<a href="https://fb.com/kaifsiddiqui2002" target="blank"><img align="center" src="https://seeklogo.com/images/T/threads-logo-1ABBA246BE-seeklogo.com.png" alt="kaifsiddiqui2002" height="40" width="40" /></a>
+<a href="https://www.threads.net/@__kaif.siddiqui__" target="blank"><img align="center" src="https://seeklogo.com/images/T/threads-logo-1ABBA246BE-seeklogo.com.png" alt="__kaif.siddiqui__" height="40" width="40" /></a>
 <a href="https://instagram.com/__kaif.siddiqui__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__kaif.siddiqui__" height="30" width="40" /></a>
 </p>
 
