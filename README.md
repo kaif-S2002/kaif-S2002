@@ -20,7 +20,7 @@ https://img.icons8.com/fluency-systems-regular/2x/employee-card.png
 # <img src="https://img.icons8.com/color/2x/user-male-circle.png" alt="Web Developer" height="25" width="25"> About Me:
 
 👋Hi, I'm Kaif Siddiqui.
-<img src="https://images.surferseo.art/ab2827f1-a2ea-469f-874f-de59c41af595.jpeg" alt="Web Developer" align="right" height="360px" width="500px">
+<img src="https://images.surferseo.art/ab2827f1-a2ea-469f-874f-de59c41af595.jpeg" alt="Web Developer" align="right" height="360px" width="480px">
 <!--https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIQgEY-Gg2SNlXZFe3ozv_66Blf5RYaX8Ocw&usqp=CAU-->
 I'm a Web Developer.<br><br>I build a responsively designed website with attractive user interfaces.<br>Using HTML, CSS, JAVASCRIPT, and REACT etc. <!--Tailwind CSS, Bootstrap-->
 
