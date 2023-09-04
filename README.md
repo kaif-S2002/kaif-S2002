@@ -40,7 +40,7 @@ I'm a front-end web developer.<br><br>I build a responsively designed website wi
 <a href="https://instagram.com/__kaif.siddiqui__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__kaif.siddiqui__" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻Languages and Tools:</h3>
 <p align="left">  
 <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React" width="45" height="45"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -54,7 +54,7 @@ I'm a front-end web developer.<br><br>I build a responsively designed website wi
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kaif-S2002&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kaif-S2002&theme=dark&hide_border=true)<br/>
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=kaif-S2002&theme=dark&hide_border=true)<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaif-S2002&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaif-s2002&show_icons=true&locale=en&layout=compact" alt="kaif-s2002" /></p> -->
