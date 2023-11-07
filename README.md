@@ -23,7 +23,7 @@ Hi, I'm Kaif Siddiqui and <!--👋-->
 I'm a Web Developer.
 <img src="https://images.surferseo.art/ab2827f1-a2ea-469f-874f-de59c41af595.jpeg" alt="Web Developer" align="right" height="360px" width="460px">
 <!--https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIQgEY-Gg2SNlXZFe3ozv_66Blf5RYaX8Ocw&usqp=CAU-->
-I build a responsively designed website with attractive user interfaces.<br>Using HTML, CSS, JAVASCRIPT, and REACT etc.</br></br> <!--Tailwind CSS, Bootstrap-->
+I build a responsively designed website with attractive user interfaces.<br>Using HTML, CSS, Javascript & React etc.</br></br> <!--Tailwind CSS, Bootstrap-->
 
 
 <!-- ## 🌐 Socials:
@@ -58,7 +58,7 @@ I build a responsively designed website with attractive user interfaces.<br>Usin
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kaif-S2002&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=kaif-S2002&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>-->
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=kaif-S2002&theme=dark&hide_border=true)<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaif-S2002&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
