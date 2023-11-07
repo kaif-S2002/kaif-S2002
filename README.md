@@ -36,12 +36,13 @@ I build a responsively designed website with attractive user interfaces.<br>Usin
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@kaifsiddiqui__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kaifsiddiqui__" height="34" width="34" /></a>
-<a href="https://linkedin.com/in/kaifsiddiqui02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaifsiddiqui02" height="30" width="30" /></a>
+<a href="https://twitter.com/@kaifsiddiqui__" target="blank"><img align="center"   src="https://assets1.chainstoreage.com/styles/max_width_320/s3/2023-07/twitter-x-logo.png?itok=TGv7ti1u" alt="@kaifsiddiqui__" height="34" width="34" /></a>
 <!-- <a href="https://fb.com/kaifsiddiqui2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaifsiddiqui2002" height="30" width="40" /></a> -->
+  <a href="https://linkedin.com/in/kaifsiddiqui02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaifsiddiqui02" height="30" width="32" /></a>
 <a href="https://www.threads.net/@__kaif.siddiqui__" target="blank"><img align="center" src="https://seeklogo.com/images/T/threads-logo-1ABBA246BE-seeklogo.com.png" alt="__kaif.siddiqui__" height="38" width="38" /></a>
-<a href="https://instagram.com/__kaif.siddiqui__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__kaif.siddiqui__" height="32" width="32" /></a>
+<a href="https://instagram.com/__kaif.siddiqui__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__kaif.siddiqui__" height="30" width="30" /></a>
 </p>
+<!-- src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" -->
 
 <h3 align="left">💻Languages and Tools:</h3>
 <p align="left">  
@@ -50,7 +51,8 @@ I build a responsively designed website with attractive user interfaces.<br>Usin
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="51" height="51"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="51" height="51"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="41" height="41"/> </a>
-<!--<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> --> </a> <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/2x/git.png" alt="Git" width="48" height="48"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="44"/> </a> 
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/2x/git.png" alt="Git" width="48" height="48"/> </a>
 </a> 
 </p> <br> 
 
