@@ -57,9 +57,9 @@ I build responsively designed websites with attractive user interfaces.<br></br>
 </p> <br> 
 
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats: -->
 <!--![](https://github-readme-stats.vercel.app/api?username=kaif-S2002&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>-->
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=kaif-S2002&theme=dark&hide_border=true)<br/>-->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaif-S2002&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaif-S2002&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+-->
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaif-s2002&show_icons=true&locale=en&layout=compact" alt="kaif-s2002" /></p> -->
