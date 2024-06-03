@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 **- 📫 How to reach me: ...
 **- 😄 Pronouns: ...
 **- ⚡ Fun fact: ...
-**💫 
+**💫 bruhhh.
 https://img.icons8.com/fluency-systems-regular/2x/employee-card.png
 -->
 <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="img" width="100%" height="350">
@@ -22,12 +22,13 @@ https://img.icons8.com/fluency-systems-regular/2x/employee-card.png
 Hi, I'm Kaif Siddiqui and <!--👋-->
 I'm a front-end web developer.
 <img src="https://images.surferseo.art/ab2827f1-a2ea-469f-874f-de59c41af595.jpeg" alt="Web Developer" align="right" height="360px" width="460px">
+
 <!--https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIQgEY-Gg2SNlXZFe3ozv_66Blf5RYaX8Ocw&usqp=CAU-->
+
 I build responsively designed websites with attractive user interfaces.<br></br></br> <!--Tailwind CSS, Bootstrap-->
 
-
 <!-- ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kaifsiddiqui2002) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__kaif.siddiqui__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaifsiddiqui02) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@kaifsiddiqui__) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kaifsiddiqui2002) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__kaif.siddiqui__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaifsiddiqui02) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@kaifsiddiqui__)
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
@@ -54,8 +55,7 @@ I build responsively designed websites with attractive user interfaces.<br></br>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="44"/> </a> 
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/2x/git.png" alt="Git" width="44" height="44"/> </a>
 </a> 
-</p> <br> 
-
+</p> <br>
 
 <!-- # 📊 GitHub Stats: -->
 <!--![](https://github-readme-stats.vercel.app/api?username=kaif-S2002&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>-->
