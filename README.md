@@ -19,13 +19,16 @@ https://img.icons8.com/fluency-systems-regular/2x/employee-card.png
 
 # <img src="https://img.icons8.com/color/2x/user-male-circle.png" alt="Web Developer" height="25" width="25"> About Me:
 
-Hi, I'm Kaif Siddiqui and <!--👋-->
-I'm a front-end web developer.
+<!--Hi, I'm Kaif Siddiqui and <!--👋
+I'm a front-end web developer. -->
+
+<h2> Hi, I'm Kaif Siddiqui 👋 </h2>
+Frontend Web Developer
 <img src="https://images.surferseo.art/ab2827f1-a2ea-469f-874f-de59c41af595.jpeg" alt="Web Developer" align="right" height="360px" width="460px">
-
 <!--https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIQgEY-Gg2SNlXZFe3ozv_66Blf5RYaX8Ocw&usqp=CAU-->
-
-I build responsively designed websites with attractive user interfaces.<br></br></br> <!--Tailwind CSS, Bootstrap-->
+Passionate about building interactive and user-friendly web applications. I craft clean, efficient code and bringing designs to life with modern technologies. Always learning, exploring, and contributing!
+<br></br></br> <!--Tailwind CSS, Bootstrap-->
+<!--I build responsively designed websites with attractive user interfaces.-->
 
 <!-- ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kaifsiddiqui2002) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__kaif.siddiqui__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaifsiddiqui02) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@kaifsiddiqui__)
@@ -51,10 +54,13 @@ I build responsively designed websites with attractive user interfaces.<br></br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="51" height="51"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="51" height="51"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" alt="bootstrap" width="50" height="50"/> </a>
+<!--<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" alt="bootstrap" width="50" height="50"/> </a> -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="44"/> </a> 
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/2x/git.png" alt="Git" width="44" height="44"/> </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" 
+  alt="VsCode" width="44" height="44" />
 </a> 
+
 </p> <br>
 
 <!-- # 📊 GitHub Stats: -->
