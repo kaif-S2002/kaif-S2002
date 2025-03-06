@@ -44,7 +44,7 @@ Passionate about building interactive and user-friendly web applications. I craf
 <a href="https://twitter.com/@kaifsiddiqui__" target="blank"><img align="center"   src="https://assets1.chainstoreage.com/styles/max_width_320/s3/2023-07/twitter-x-logo.png?itok=TGv7ti1u" alt="@kaifsiddiqui__" height="34" width="34" /></a>
 <!-- <a href="https://fb.com/kaifsiddiqui2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaifsiddiqui2002" height="30" width="40" /></a> -->
 <a href="https://www.threads.net/@__kaif.siddiqui__" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Threads_%28app%29.png?20230704114028" alt="__kaif.siddiqui__" height="38" width="38" /></a>
-<a href="https://instagram.com/__kaif.siddiqui__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__kaif.siddiqui__" height="30" width="30" /></a>
+<!--<a href="https://instagram.com/__kaif.siddiqui__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__kaif.siddiqui__" height="30" width="30" /></a>-->
 </p>
 <!-- src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" -->
 
