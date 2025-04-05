@@ -26,7 +26,7 @@ I'm a front-end web developer. -->
 Frontend Web Developer
 <img src="https://images.surferseo.art/ab2827f1-a2ea-469f-874f-de59c41af595.jpeg" alt="Web Developer" align="right" height="360px" width="460px">
 <!--https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIQgEY-Gg2SNlXZFe3ozv_66Blf5RYaX8Ocw&usqp=CAU-->
-Passionate about building interactive and user-friendly web applications. I craft clean, efficient code and bringing designs to life with modern technologies. Always learning, exploring, and contributing!
+Passionate about building interactive and user-friendly web applications. I craft clean, efficient code and bring designs to life with modern technologies. Always learning, exploring, and contributing!
 <br></br></br> <!--Tailwind CSS, Bootstrap-->
 <!--I build responsively designed websites with attractive user interfaces.-->
 
