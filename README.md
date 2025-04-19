@@ -55,7 +55,7 @@ Passionate about building interactive and user-friendly web applications. I craf
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="51" height="51"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="51" height="51"/> </a> 
 <!--<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" alt="bootstrap" width="50" height="50"/> </a> -->
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" alt="tailwind" width="44" height="36"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" alt="tailwind" width="46" height="34"/> </a> 
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/2x/git.png" alt="Git" width="44" height="44"/> </a>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" 
   alt="VsCode" width="44" height="44" />
